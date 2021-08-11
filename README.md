@@ -1,1 +1,1 @@
-# Bhoomi-Ghost-Runner
+# Ghost-runner
